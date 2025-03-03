@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+  .links{
+    color: black;
+    text-decoration: none;
+  }
+
+  .underline{
+    text-decoration: none;
+  }
+  .logo-carry{
+    color: black;
+  }
