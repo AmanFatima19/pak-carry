@@ -47,7 +47,7 @@ function Dashboard() {
                   className="font-semibold text-white text-center"
                   style={{ fontSize: "22px" }}
                 >
-                  User Name
+                  Aman fatima
                 </h2>
                 <button className="mt-2 bg-white px-4 py-2 rounded text-[#0ac6ae]">
                   Edit Profile
